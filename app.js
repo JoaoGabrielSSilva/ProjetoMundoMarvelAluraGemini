@@ -1,9 +1,7 @@
-
-
 function pesquisar() {
   let secaoResultados = document.getElementById("resultados-pesquisa");
   // Seleciona o elemento HTML com o ID "resultados-pesquisa" onde os resultados serão exibidos.
-  let campoPesquisa = document.getElementById("campo-pesquisa").value;
+  let campoPesquisa = document.getElementById("campo-pesquisa").value;  
 
   let resultados = "";
   let nome = "";
@@ -66,4 +64,15 @@ function pesquisar() {
   // Atribui o HTML gerado à propriedade 'innerHTML' do elemento 'secaoResultados',
   // substituindo o conteúdo anterior e exibindo os resultados na página.
 }
+
+const campoPesquisa = document.getElementById("campo-pesquisa");
+const botaoBuscar = document.getElementById("botao-buscar");
+
+// Adiciona o event listener para o evento keypress
+campoPesquisa.addEventListener('keypress', function(event) {
+    // Verifica se a tecla pressionada é Enter
+    if (event.key === 'Enter') {
+        pesquisar(); // Chama a função de pesquisa
+    }
+});
 
