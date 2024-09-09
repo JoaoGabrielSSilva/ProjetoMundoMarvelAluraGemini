@@ -12,4 +12,4 @@ Este projeto, desenvolvido durante a imersão da Alura, tem como objetivo criar 
 ### Agradecimentos
 Agradeço à Alura pela oportunidade de participar desta imersão e desenvolver este projeto.
 
-**Link para a demonstração:** 
+**Link para a demonstração:** [https://joaogabrielssilva.github.io/ProjetoMundoMarvelAluraGemini/]
