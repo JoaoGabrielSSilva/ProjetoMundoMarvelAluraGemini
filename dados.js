@@ -1,6 +1,6 @@
 let dados = [
     {
-        nome: "Homem-Aranha",
+        nome: "Homem Aranha",
         descricao: "O Homem-Aranha, alter ego de Peter Parker, é um dos super-heróis mais icônicos e queridos da cultura pop. Picado por uma aranha radioativa, Peter adquire habilidades sobre-humanas que o levam a combater o crime em Nova York. Sob a máscara, ele enfrenta desafios pessoais e profissionais, além de uma galeria de vilões memoráveis como o Duende Verde, o Dr. Octopus e o Venom. A jornada de Peter Parker como o Homem-Aranha é marcada por um constante conflito entre seus deveres como super-herói e sua vida pessoal, tornando-o um personagem extremamente humano e relatable para o público.",
         link: "https://marvel.fandom.com/wiki/Peter_Parker_(Earth-616)",
         foto: "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png",
@@ -25,7 +25,7 @@ let dados = [
         descricao: "Um jovem adolescente de Brooklyn que é picado por uma aranha geneticamente modificada, adquirindo habilidades semelhantes às do Homem-Aranha. Com uma perspectiva única e uma vibrante personalidade, Miles se torna um símbolo de esperança para sua comunidade.",
         link: "https://en.wikipedia.org/wiki/Miles_Morales",
         foto: "https://comicboom.com.br/shop/wp-content/uploads/2023/10/miles-morales-1.webp",
-        tags: "herói adolescente aranha brooklyn"
+        tags: "herói adolescente aranha brooklyn, homem"
     },
     {
         nome: "Kamala Khan",
